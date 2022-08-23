@@ -17,3 +17,5 @@ git add . # Añade los cambios que tengamos guardados
 git commit -m "Descripción del cambio" # Añade un punto en la historia del proyecto
 git branch -M NOMBRERAMA # Crea una nueva rama, reemplazar NOMBRERAMA por el nombre final
 ```
+
+## ¿Qué son las ramas?
