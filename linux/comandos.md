@@ -15,3 +15,4 @@ touch : crear archivos
 
 gedit : abrir o editar archivos 
 
+cd 
