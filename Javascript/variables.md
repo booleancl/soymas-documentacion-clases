@@ -14,3 +14,9 @@ let nombre = "profe"
 ...
 nombre = "solange"
 ```
+## Tipos de Datos
+
+- String: Son variables de tipo texto y se declaran de dos formas, con comillas dobles o simple:
+    - `const mivariable = "texto"`
+    - `const mivariable = 'texto'`
+- Number: 
