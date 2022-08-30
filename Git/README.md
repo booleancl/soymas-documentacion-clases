@@ -22,7 +22,7 @@ git push origin NOMBRERAMA #es para subir cambios al repositorio remoto
 git pull origin NOMBRERAMA #es para traer los cambios del repositorio remoto
 git status #para ver el estado de repositorio local
 git log #para ver el regristro de la historia del proyecto 
-git marge NOMBREDERAMA #sirve para fucionar las ramas 
+git merge NOMBREDERAMA #sirve para fucionar las ramas 
 
 ```
 
