@@ -6,6 +6,7 @@
 - Javascript: "Grupo Las Poderosas"   
   - Variables,  Tipos de variables
   - Ciclos de Javascript
+  - Condicionales
 
 
  - Linux: "Generacion 1"
